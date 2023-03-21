@@ -60,17 +60,41 @@
 		BE3617B428DB5E6F0047BA4B /* Notas Diarias */ = {
 			isa = PBXGroup;
 			children = (
+				BEA4C7F329C934A50084F101 /* ViewModel */,
+				BEA4C7F229C934980084F101 /* View */,
+				BEA4C7F129C9348C0084F101 /* Model */,
 				BE3617B528DB5E6F0047BA4B /* AppDelegate.swift */,
 				BE3617B728DB5E6F0047BA4B /* SceneDelegate.swift */,
-				BE3617CE28DB64430047BA4B /* anotacao.swift */,
-				BE3617CC28DB63D90047BA4B /* ListarAnotacoes.swift */,
-				BE3617BB28DB5E6F0047BA4B /* Main.storyboard */,
 				BE3617C128DB5E700047BA4B /* Assets.xcassets */,
-				BE3617C328DB5E700047BA4B /* LaunchScreen.storyboard */,
 				BE3617C628DB5E700047BA4B /* Info.plist */,
 				BE3617BE28DB5E6F0047BA4B /* Notas_Diarias.xcdatamodeld */,
 			);
 			path = "Notas Diarias";
+			sourceTree = "<group>";
+		};
+		BEA4C7F129C9348C0084F101 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BE3617CE28DB64430047BA4B /* anotacao.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		BEA4C7F229C934980084F101 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				BE3617BB28DB5E6F0047BA4B /* Main.storyboard */,
+				BE3617C328DB5E700047BA4B /* LaunchScreen.storyboard */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		BEA4C7F329C934A50084F101 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				BE3617CC28DB63D90047BA4B /* ListarAnotacoes.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
