@@ -6,7 +6,7 @@ This is a simple application to save daily notes. It uses the MVVM architecture 
 
 The application uses the MVVM architecture. The model is responsible for storing the notes and the ViewModel is responsible for providing the necessary information to the View. The View is responsible for displaying the information and interacting with the user.
 
-#How to use
+# How to use
 
 - Open the application.
 - Click on the “+” button to add a new note.
