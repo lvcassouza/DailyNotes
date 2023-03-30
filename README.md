@@ -29,12 +29,12 @@ The application uses the MVVM architecture. The model is responsible for storing
 ## Screenshots
 
 <p align = "left">
-<img width = "250" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/gif.gif">
+<img width = "280" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/gif.gif">
 
-<img width = "250" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.56.41.png">
+<img width = "280" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.56.41.png">
 
-<img width = "250" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.57.19.png">
+<img width = "280" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.57.19.png">
 
-<img width = "250" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.57.25.png">
+<img width = "280" src = "https://github.com/lvcassouza/DailyNotes/blob/main/Notas%20Diarias/Notas%20Diarias/Assets.xcassets/Screenshots/Captura%20de%20Tela%202023-03-29%20%C3%A0s%2023.57.25.png">
 
 </p> 
